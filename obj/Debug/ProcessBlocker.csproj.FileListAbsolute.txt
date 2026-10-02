@@ -1,0 +1,9 @@
+C:\Users\ThinkPad\source\repos\ProcessBlocker\bin\Debug\ProcessBlocker.exe.config
+C:\Users\ThinkPad\source\repos\ProcessBlocker\bin\Debug\ProcessBlocker.exe
+C:\Users\ThinkPad\source\repos\ProcessBlocker\bin\Debug\ProcessBlocker.pdb
+C:\Users\ThinkPad\source\repos\ProcessBlocker\obj\Debug\ProcessBlocker.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\ProcessBlocker\obj\Debug\ProcessBlocker.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\ProcessBlocker\obj\Debug\ProcessBlocker.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\ProcessBlocker\obj\Debug\ProcessBlocker.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\ProcessBlocker\obj\Debug\ProcessBlocker.exe
+C:\Users\ThinkPad\source\repos\ProcessBlocker\obj\Debug\ProcessBlocker.pdb
